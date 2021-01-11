@@ -72,7 +72,7 @@ def rythm():
                         fields=[
                             f"""<b>LH:</b> {lh}, <b>RH:</b> {rh}<br/><b>Rythm</b>
                             <pre>{ryt}</pre>
-                            <pre>{leg}</pre>",
+                            <pre>{leg}</pre>
                             """,
                             "",
                         ],

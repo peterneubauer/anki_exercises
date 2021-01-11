@@ -14,7 +14,7 @@ These exercises are a permutation of different left hand and right hand chord an
 
 ## Rythm exercises
 
-Here, on-beat and off-beat notes are combined in order to train the different combinations by playing, klapping or thinking.
+Here, on-beat (O) and off-beat (o) notes are combined in order to train the different combinations by playing, clapping or thinking.
 
 ![rythm](images/rythm.png)
 
