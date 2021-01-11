@@ -19,6 +19,7 @@ my_model = genanki.Model(
 prefix = "Piano_personal"
 
 
+# A deck contining combinations of 2-5-1 exercises, inspired by the suggestions at https://www.youtube.com/watch?v=-bH30kwMbm0&t=434s&ab_channel=WalkThatBass
 def create251():
     my_deck = genanki.Deck(2059400110, f"{prefix}::2-5-1 Exercises")
 
@@ -47,6 +48,7 @@ def create251():
     genanki.Package(my_deck).write_to_file("piano_2-5-1_exercises.apkg")
 
 
+# Rythm exercises that combine on-and off beat elements in order to train random combinations
 def rythm():
 
     my_deck = genanki.Deck(2059400111, f"{prefix}::Rythm Exercises")
